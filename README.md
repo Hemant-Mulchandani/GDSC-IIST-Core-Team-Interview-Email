@@ -2,7 +2,7 @@
 
   📌 Visit to Live Interact : 🔗
 
-  https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Intview-Email/
+  https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Intiew-Email/
 
   ![Mail Capture](Media/GDSC-IIST-Core-Team-Interview-Email-Screensot.png)
 
